@@ -6,7 +6,7 @@ Throughout this assessment, I demonstrated a comprehensive and methodical approa
 
 # Data Preparation & Extraction
 Table Extraction: I began by parsing and analyzing raw SQL dump files, using custom Python scripts to accurately count and validate row counts for large tables. This ensured data integrity and readiness for analysis.
-Dummy Data Generation: Recognizing the need for referential integrity, I programmatically generated and inserted dummy records (e.g., for the users_tier table) to match foreign key constraints, using MySQL stored procedures for efficiency and scalability.
+Dummy Data Generation: Recognizing the need for referential integrity, I programmatically generated and inserted dummy records (e.g., for the users_tier table and withdrawals_withdrawalintent) to match foreign key constraints, using MySQL stored procedures for efficiency and scalability.
 
 # Business-Focused SQL Solutions
 For each assessment question, I crafted optimized, well-documented SQL queries that not only deliver accurate results but also provide actionable business insights:
